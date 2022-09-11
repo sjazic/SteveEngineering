@@ -1,3 +1,3 @@
-#First Practice Repo
+# First Practice Repo
 
-Used for learning Git.
+Used for learning Git!
